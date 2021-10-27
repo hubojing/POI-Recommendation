@@ -2,6 +2,38 @@
 关于兴趣点推荐的一切。
 
 # 论文
+## KDD 2021
+- Curriculum Meta-Learning for Next POI Recommendation
+面向下一个兴趣点推荐的课程元学习
+
+## SIGIR 2021
+- POINTREC: A Test Collection for Narrative-driven Point of Interest Recommendation
+POINTREC：用于叙事驱动兴趣点推荐的一种测试集
+
+## WWW 2021
+- STAN: Spatio-Temporal Attention Network for Next Location Recommendation
+STAN：面向下一个位置推荐的时空注意力网络
+
+## CIKM 2021
+- Answering POI-recommendation Questions using Tourism Reviews
+使用旅游者评论回答POI问题
+
+- SNPR: A Serendipity-Oriented Next POI Recommendation Model
+SNPR：面向偶然性的POI推荐
+
+- ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation
+ST-PIL：用于POI推荐的时空周期兴趣学习
+
+- You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation
+图增强注意力神经网络用于可解释POI推荐
+
+## AAAI 2021
+- PREMERE: Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation
+PREMERE：自集成进行元权重重调POI推荐
+
+- Out-of-Town Recommendation with Travel Intention Modeling
+带有旅游意图建模的POI推荐
+
 ## KDD 2020
 - Geography-Aware Sequential Location Recommendation
 
