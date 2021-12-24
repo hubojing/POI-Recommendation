@@ -49,39 +49,50 @@ PREMERE：自集成进行元权重重调POI推荐
 [PDF](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2020/Defu-Lian-KDD.pdf)
 
 ## SIGIR 2020
-- HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation
+- HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation  
 HME：一种双曲度量嵌入方法用于下一个兴趣点推荐
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3397271.3401049)
-- Spatial Object Recommendation with Hints: When Spatial Granularity Matters
+- Spatial Object Recommendation with Hints: When Spatial Granularity Matters  
 带有提示的空间对象推荐：当空间粒度很重要时
 [PDF](https://arxiv.org/pdf/2101.02969.pdf)
 
 ## WWW 2020
-- Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices
+- Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices  
+关于资源受限移动设备的下一个兴趣点推荐
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3366423.3380170)
-- A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data
-[PDF](https://dl.acm.org/doi/pdf/10.1145/3366423.3380202)
+- A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data  
+基于稀疏签到数据的连续兴趣点推荐的类别感知深度模型
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3366423.3380202)  
 
 ## CIKM 2020
-- STP-UDGAT: Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation
+- STP-UDGAT: Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation  
+STP-UDGAT：用于下一个兴趣点推荐的时空偏好用户维度图注意网络
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3340531.3411876)
-- Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation
+- Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation  
+用于兴趣点推荐的基于学习图的地理潜在表示
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3340531.3411905)
 - Magellan: A Personalized Travel Recommendation System Using Transaction Data
+Magellan：使用交易数据的个性化旅行推荐系统
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3340531.3412725)
 
 ## AAAI 2020
 - Where to Go Next: Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation
+下一步去向：为兴趣点推荐的长期和短期用户偏好建模
 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5353)
 - Enhancing Personalized Trip Recommendation with Attractive Routes
+通过有吸引力的路线增强个性化旅行推荐
 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5407)
 - An Attentional Recurrent Neural Network for Personalized Next Location Recommendation
+用于个性化下一个位置推荐的注意循环神经网络
 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5337)
 
 ## IJCAI 2020
 - Contextualized Point-of-Interest Recommendation
+情境化的兴趣点推荐
 [PDF](https://repository.kaust.edu.sa/bitstream/handle/10754/667564/Conference%20Paperfile1.pdf?sequence=1&isAllowed=y)
 - Discovering Subsequence Patterns for Next POI Recommendation
+发现子序列模式用于下一个兴趣点推荐
 [PDF](https://www.ijcai.org/Proceedings/2020/0445.pdf)
 - An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins
+用于不确定签到的下一个兴趣点推荐的交互式多任务学习框架
 [PDF](http://184pc128.csie.ntnu.edu.tw/presentation/21-04-12/An%20Interactive%20Multi-Task%20Learning%20Framework%20for%20Next%20POI%20Recommendation%20with%20Uncertain%20Check-ins.pdf)
