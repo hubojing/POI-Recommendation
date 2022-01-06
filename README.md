@@ -16,6 +16,12 @@ POINTREC：用于叙事驱动兴趣点推荐的一种测试集
 - STAN: Spatio-Temporal Attention Network for Next Location Recommendation  
 STAN：面向下一个位置推荐的时空注意力网络
 [PDF](https://arxiv.org/pdf/2102.04095.pdf)
+- Joint Spatio-Textual Reasoning for Answering Tourism Questions  
+回答旅游问题的联合时空文本推理
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3442381.3449857)
+- Attentive Sequential Model Based on Graph Neural Network for Next POI Recommendation  
+基于图神经网络的注意力序列模型在下一个兴趣点推荐中的应用
+[PDF](https://link.springer.com/content/pdf/10.1007/s11280-021-00961-9.pdf)
 
 ## CIKM 2021
 - Answering POI-recommendation Questions using Tourism Reviews  
@@ -71,28 +77,28 @@ STP-UDGAT：用于下一个兴趣点推荐的时空偏好用户维度图注意�
 - Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation  
 用于兴趣点推荐的基于学习图的地理潜在表示
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3340531.3411905)
-- Magellan: A Personalized Travel Recommendation System Using Transaction Data
+- Magellan: A Personalized Travel Recommendation System Using Transaction Data  
 Magellan：使用交易数据的个性化旅行推荐系统
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3340531.3412725)
 
 ## AAAI 2020
-- Where to Go Next: Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation
+- Where to Go Next: Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation  
 下一步去向：为兴趣点推荐的长期和短期用户偏好建模
 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5353)
-- Enhancing Personalized Trip Recommendation with Attractive Routes
+- Enhancing Personalized Trip Recommendation with Attractive Routes  
 通过有吸引力的路线增强个性化旅行推荐
 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5407)
-- An Attentional Recurrent Neural Network for Personalized Next Location Recommendation
+- An Attentional Recurrent Neural Network for Personalized Next Location Recommendation  
 用于个性化下一个位置推荐的注意循环神经网络
 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5337)
 
 ## IJCAI 2020
-- Contextualized Point-of-Interest Recommendation
+- Contextualized Point-of-Interest Recommendation  
 情境化的兴趣点推荐
 [PDF](https://repository.kaust.edu.sa/bitstream/handle/10754/667564/Conference%20Paperfile1.pdf?sequence=1&isAllowed=y)
-- Discovering Subsequence Patterns for Next POI Recommendation
+- Discovering Subsequence Patterns for Next POI Recommendation  
 发现子序列模式用于下一个兴趣点推荐
 [PDF](https://www.ijcai.org/Proceedings/2020/0445.pdf)
-- An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins
+- An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins  
 用于不确定签到的下一个兴趣点推荐的交互式多任务学习框架
 [PDF](http://184pc128.csie.ntnu.edu.tw/presentation/21-04-12/An%20Interactive%20Multi-Task%20Learning%20Framework%20for%20Next%20POI%20Recommendation%20with%20Uncertain%20Check-ins.pdf)
