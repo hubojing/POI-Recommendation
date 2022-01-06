@@ -12,6 +12,7 @@
 - POINTREC: A Test Collection for Narrative-driven Point of Interest Recommendation  
 POINTREC：用于叙事驱动兴趣点推荐的一种测试集
 [PDF](https://arxiv.org/pdf/2105.09204.pdf)
+[CODE](https://github.com/iai-group/sigir2021-pointrec)
 
 ## WWW 2021
 - STAN: Spatio-Temporal Attention Network for Next Location Recommendation  
@@ -25,6 +26,7 @@ STAN：面向下一个位置推荐的时空注意力网络
 - Attentive Sequential Model Based on Graph Neural Network for Next POI Recommendation  
 基于图神经网络的注意力序列模型在下一个兴趣点推荐中的应用
 [PDF](https://link.springer.com/content/pdf/10.1007/s11280-021-00961-9.pdf)
+[CODE](https://github.com/HduDBSI/ASGNN)
 
 ## CIKM 2021
 - Answering POI-recommendation Questions using Tourism Reviews    
@@ -42,30 +44,45 @@ ST-PIL：用于POI推荐的时空周期兴趣学习
 - You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation  
 图增强注意力神经网络用于可解释POI推荐
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3459637.3481962)
+[CODE](https://github.com/zyli93/GEAPR)
 
 ## AAAI 2021
 - PREMERE: Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation  
 PREMERE：自集成进行元权重重调POI推荐
 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16539)
 
-- Out-of-Town Recommendation with Travel Intention Modeling
+- Out-of-Town Recommendation with Travel Intention Modeling  
 带有旅游意图建模的POI推荐
 [PDF](https://www.aaai.org/AAAI21Papers/AAAI-5654.XinH.pdf)
+[CODE](https://github.com/xhran2010/TrainOR_AAAI21)
 
 - Pre-training Context and Time Aware Location Embeddings from Spatial-Temporal Trajectories for User Next Location Prediction  
 来自时空轨迹的预训练上下文和时间感知位置嵌入用于用户下一位置预测
 [PDF](https://www.aaai.org/AAAI21Papers/AAAI-1611.LinY.pdf)
+[CODE](https://github.com/Logan-Lin/CTLE)
 
 ## IJCAI 2021
 - MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation  
 一种面向Few-shot元优化模型的下一个兴趣点推荐
 [PDF](https://www.ijcai.org/proceedings/2021/0415.pdf)
 
+## DASFAA 2021
+- Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie  
+个性化兴趣点推荐:具有社会纽带的时空表征学习
+[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-73194-6_37.pdf)
+[CODE](https://github.com/dsj96/PPR-master)
+
+## TKDE 2021
+- Point-of-Interest Recommendation for Users-Businesses with Uncertain Check-ins  
+不确定签到的兴趣点推荐
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9360501)
+[CODE](https://github.com/STSP2020/STSP)
 
 ## KDD 2020
 - Geography-Aware Sequential Location Recommendation  
 地理感知的顺序位置推荐
 [PDF](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2020/Defu-Lian-KDD.pdf)
+[CODE](https://github.com/libertyeagle/GeoSAN)
 
 ## SIGIR 2020
 - HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation  
@@ -98,6 +115,7 @@ Magellan：使用交易数据的个性化旅行推荐系统
 - Where to Go Next: Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation  
 下一步去向：为兴趣点推荐的长期和短期用户偏好建模
 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5353)
+[CODE](https://github.com/NLPWM-WHU/LSTPM)
 - Enhancing Personalized Trip Recommendation with Attractive Routes  
 通过有吸引力的路线增强个性化旅行推荐
 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5407)
@@ -109,6 +127,7 @@ Magellan：使用交易数据的个性化旅行推荐系统
 - Contextualized Point-of-Interest Recommendation  
 情境化的兴趣点推荐
 [PDF](https://repository.kaust.edu.sa/bitstream/handle/10754/667564/Conference%20Paperfile1.pdf?sequence=1&isAllowed=y)
+[CODE](https://github.com/anitcd/FactoredRelevanceModel)
 - Discovering Subsequence Patterns for Next POI Recommendation  
 发现子序列模式用于下一个兴趣点推荐
 [PDF](https://www.ijcai.org/Proceedings/2020/0445.pdf)
