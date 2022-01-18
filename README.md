@@ -2,6 +2,15 @@
 关于兴趣点推荐的一切。
 
 # 论文
+## 2022
+
+## 其它
+- [Information Processing and Management (IP&M) journal] Leveraging Social Influence based on Users Activity Centers for Point-of-Interest Recommendation  
+中科院1区 [PDF](https://arxiv.org/abs/2201.03450) 
+[CODE](https://github.com/Seyedhosseinzadeh/SUCP)
+- Improving Location Recommendation with Urban Knowledge Graph  
+[PDF](https://arxiv.org/abs/2111.01013)
+
 ## KDD 2021
 - Curriculum Meta-Learning for Next POI Recommendation  
 面向下一个兴趣点推荐的课程元学习
@@ -46,6 +55,9 @@ ST-PIL：用于POI推荐的时空周期兴趣学习
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3459637.3481962)
 [CODE](https://github.com/zyli93/GEAPR)
 
+- SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios
+
+
 ## AAAI 2021
 - PREMERE: Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation  
 PREMERE：自集成进行元权重重调POI推荐
@@ -66,6 +78,11 @@ PREMERE：自集成进行元权重重调POI推荐
 一种面向Few-shot元优化模型的下一个兴趣点推荐
 [PDF](https://www.ijcai.org/proceedings/2021/0415.pdf)
 
+## EMNLP 2021
+- Point-of-Interest Type Prediction using Text and Images
+[PDF](https://aclanthology.org/2021.emnlp-main.614.pdf)
+[CODE](https://github.com/danaesavi/poi-type-prediction)
+
 ## DASFAA 2021
 - Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie  
 个性化兴趣点推荐:具有社会纽带的时空表征学习
@@ -77,6 +94,11 @@ PREMERE：自集成进行元权重重调POI推荐
 不确定签到的兴趣点推荐
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9360501)
 [CODE](https://github.com/STSP2020/STSP)
+
+## 其它
+- Recommending POIs for Tourists by User Behavior Modeling and Pseudo-Rating
+[PDF](https://arxiv.org/pdf/2110.06523.pdf)
+[CODE](https://github.com/Ma-Lab-Public/UX-SPR)
 
 ## KDD 2020
 - Geography-Aware Sequential Location Recommendation  
