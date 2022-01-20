@@ -5,11 +5,19 @@
 ## 2022
 
 ## 其它
-- [Information Processing and Management (IP&M) journal] Leveraging Social Influence based on Users Activity Centers for Point-of-Interest Recommendation  
+- [Information Processing & Management] Leveraging Social Influence based on Users Activity Centers for Point-of-Interest Recommendation  
 中科院1区 [PDF](https://arxiv.org/abs/2201.03450) 
 [CODE](https://github.com/Seyedhosseinzadeh/SUCP)
+- [Information Processing & Management]Combining Non-sampling and Self-attention for Sequential Recommendation
+[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0306457321002892)
+[CODE](https://github.com/conquerSelf/NSSR)
+
 - Improving Location Recommendation with Urban Knowledge Graph  
 [PDF](https://arxiv.org/abs/2111.01013)
+
+- FedPOIRec: Privacy Preserving Federated POI Recommendation with Social Influence
+[PDF](https://arxiv.org/pdf/2112.11134.pdf)
+[CODE](https://github.com/vperifan/FedPOIRec)
 
 ## KDD 2021
 - Curriculum Meta-Learning for Next POI Recommendation  
@@ -55,6 +63,10 @@ ST-PIL：用于POI推荐的时空周期兴趣学习
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3459637.3481962)
 [CODE](https://github.com/zyli93/GEAPR)
 
+- LightMove: A Lightweight Next-POI Recommendation for Taxicab Rooftop Advertising
+[PDF](https://arxiv.org/pdf/2108.04993.pdf)
+[CODE](https://github.com/Jinsung-Jeon/LightMove)
+
 - SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios
 
 
@@ -94,11 +106,17 @@ PREMERE：自集成进行元权重重调POI推荐
 不确定签到的兴趣点推荐
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9360501)
 [CODE](https://github.com/STSP2020/STSP)
+- DeepAltTrip: Top-k Alternative Itineraries for Trip Recommendation
+[PDF](https://arxiv.org/pdf/2109.03535.pdf)
+[CODE](https://github.com/smrashid20/DeepAltTrip)
 
 ## 其它
 - Recommending POIs for Tourists by User Behavior Modeling and Pseudo-Rating
 [PDF](https://arxiv.org/pdf/2110.06523.pdf)
 [CODE](https://github.com/Ma-Lab-Public/UX-SPR)
+- Self-supervised Representation Learning for Trip Recommendation
+- [PDF](https://arxiv.org/pdf/2109.00968.pdf)
+- [CODE](https://github.com/gcooq/SelfTrip)
 
 ## KDD 2020
 - Geography-Aware Sequential Location Recommendation  
@@ -113,6 +131,9 @@ HME：一种双曲度量嵌入方法用于下一个兴趣点推荐
 - Spatial Object Recommendation with Hints: When Spatial Granularity Matters  
 带有提示的空间对象推荐：当空间粒度很重要时
 [PDF](https://arxiv.org/pdf/2101.02969.pdf)
+- Kernel Density Estimation based Factored Relevance Model for Multi-Contextual Point-of-Interest Recommendation
+[PDF](https://arxiv.org/pdf/2006.15679.pdf)
+[CODE](https://github.com/anitcd/FactoredRelevanceModel)
 
 ## WWW 2020
 - Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices  
@@ -164,3 +185,22 @@ Magellan：使用交易数据的个性化旅行推荐系统
 - Where to go next: A spatio-temporal gated network for next poi recommendation  
 下一步去哪：一种时空门控网络用于下一个兴趣点推荐
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9133505)
+
+## 其它
+- [ECIR 20]Joint Geographical and Temporal Modeling based on Matrix Factorization for Point-of-Interest Recommendation
+[PDF](https://arxiv.org/pdf/2001.08961.pdf)
+[CODE](https://github.com/rahmanidashti/STACP)
+
+- DAN-SNR: A Deep Attentive Network for Social-Aware Next Point-of-Interest Recommendation  
+[PDF](https://github.com/drhuangliwei/DAN-SNR)
+[CODE](https://github.com/drhuangliwei/DAN-SNR)
+
+- VGMF: Visual contents and geographical influence enhanced point-of-interest recommendation in location-based social network  
+[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3889)
+[CODE](https://github.com/socialsnail/VGMF)
+
+## 综述论文
+- [2022]Point-of-Interest Recommender Systems based on Location-Based Social Networks: A Survey from an Experimental Perspective
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3510409)
+- [2022]A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations
+[PDF](https://arxiv.org/pdf/2011.10187.pdf)
