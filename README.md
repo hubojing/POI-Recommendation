@@ -69,7 +69,6 @@ ST-PIL：用于POI推荐的时空周期兴趣学习
 
 - SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios
 
-
 ## AAAI 2021
 - PREMERE: Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation  
 PREMERE：自集成进行元权重重调POI推荐
@@ -91,9 +90,13 @@ PREMERE：自集成进行元权重重调POI推荐
 [PDF](https://www.ijcai.org/proceedings/2021/0415.pdf)
 
 ## EMNLP 2021
-- Point-of-Interest Type Prediction using Text and Images
+- Point-of-Interest Type Prediction using Text and Images  
 [PDF](https://aclanthology.org/2021.emnlp-main.614.pdf)
 [CODE](https://github.com/danaesavi/poi-type-prediction)
+
+## ICDE 2021
+- EDGE: Entity-Diffusion Gaussian Ensemble for Interpretable Tweet Geolocation Prediction
+[PDF](https://ieeexplore.ieee.org/abstract/document/9458709)
 
 ## DASFAA 2021
 - Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie  
@@ -106,17 +109,25 @@ PREMERE：自集成进行元权重重调POI推荐
 不确定签到的兴趣点推荐
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9360501)
 [CODE](https://github.com/STSP2020/STSP)
-- DeepAltTrip: Top-k Alternative Itineraries for Trip Recommendation
+- DeepAltTrip: Top-k Alternative Itineraries for Trip Recommendation  
 [PDF](https://arxiv.org/pdf/2109.03535.pdf)
 [CODE](https://github.com/smrashid20/DeepAltTrip)
 
 ## 其它
-- Recommending POIs for Tourists by User Behavior Modeling and Pseudo-Rating
+- Recommending POIs for Tourists by User Behavior Modeling and Pseudo-Rating  
 [PDF](https://arxiv.org/pdf/2110.06523.pdf)
 [CODE](https://github.com/Ma-Lab-Public/UX-SPR)
-- Self-supervised Representation Learning for Trip Recommendation
+- Self-supervised Representation Learning for Trip Recommendation  
 - [PDF](https://arxiv.org/pdf/2109.00968.pdf)
 - [CODE](https://github.com/gcooq/SelfTrip)
+- Tag embedding based personalized point of interest recommendation system  
+TREC
+[PDF](https://doi.org/10.1016/j.ipm.2021.102690)
+[CODE](https://github.com/sagrawal1993/ContextualSuggestion)
+
+- Point of interest recommendations based on the anchoring effect in location-based social network services  
+基于位置的社交网络服务中锚定效应的兴趣点推荐  
+[PDF](https://mysid88.github.io/homepage/publication/2021/Point%20of%20interest%20recommendations%20based%20on%20the%20anchoring%20effect%20inlocation-based%20social%20network%20services.pdf)
 
 ## KDD 2020
 - Geography-Aware Sequential Location Recommendation  
@@ -142,6 +153,7 @@ HME：一种双曲度量嵌入方法用于下一个兴趣点推荐
 - A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data   
 基于稀疏签到数据的连续兴趣点推荐的类别感知深度模型
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3366423.3380202)  
+- Reinforced Negative Sampling over Knowledge Graph for Recommendation
 
 ## CIKM 2020
 - STP-UDGAT: Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation  
@@ -180,27 +192,126 @@ Magellan：使用交易数据的个性化旅行推荐系统
 - Why We Go Where We Go: Profiling User Decisions on Choosing POIs  
 我们为什么去哪里：分析用户选择兴趣点的决策
 [PDF](https://www.ijcai.org/proceedings/2020/0478.pdf)
+## PAKDD 2020
+- Relation Embedding for Personalised Translation-based POI Recommendation
 
 ## TKDE 2020
 - Where to go next: A spatio-temporal gated network for next poi recommendation  
 下一步去哪：一种时空门控网络用于下一个兴趣点推荐
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9133505)
 
+- Point-of-Interest Recommendation with Global and Local Context
+[PDF](https://ieeexplore.ieee.org/abstract/document/9355002)
+
 ## 其它
-- [ECIR 20]Joint Geographical and Temporal Modeling based on Matrix Factorization for Point-of-Interest Recommendation
+- [ECIR 20]Joint Geographical and Temporal Modeling based on Matrix Factorization for Point-of-Interest Recommendation  
 [PDF](https://arxiv.org/pdf/2001.08961.pdf)
 [CODE](https://github.com/rahmanidashti/STACP)
 
-- DAN-SNR: A Deep Attentive Network for Social-Aware Next Point-of-Interest Recommendation  
+- DAN-SNR: A Deep Attentive Network for Social-Aware Next Point-of-Interest Recommendation    
 [PDF](https://github.com/drhuangliwei/DAN-SNR)
 [CODE](https://github.com/drhuangliwei/DAN-SNR)
 
-- VGMF: Visual contents and geographical influence enhanced point-of-interest recommendation in location-based social network  
+- VGMF: Visual contents and geographical influence enhanced point-of-interest recommendation in location-based social network   
 [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3889)
 [CODE](https://github.com/socialsnail/VGMF)
 
+- Personalized location recommendation by fusing sentimental and spatial context
+[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302161)
+[CODE](https://github.com/rushing-snail/Sentimental-Spatial-POI-Recommendation)
+
+- Utilizing FastText for Venue Recommendation
+[PDF](https://arxiv.org/pdf/2005.12982.pdf)
+[CODE](https://github.com/mgulcin/FastTextRec/)
+
+- [Engineering Applications of Artificial Intelligence] A point-of-interest suggestion algorithm in Multi-source geo-social networks
+中科院2区
+
+- GLR: A graph-based latent representation model for successive POI recommendation
+中科院1区 top
+
+- [IEEE TRANSACTIONS ON CYBERNETICS] A Learning-Based POI Recommendation WithSpatiotemporal Context Awareness
+一种基于学习的时空上下文感知兴趣点推荐方法
+
+## 2019
+### KDD
+- KGAT: Knowledge Graph Attention Network for Recommendation  
+KGAT：知识图谱注意力网络推荐  
+[PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330989)
+[CODE](https://github.com/xiangwang1223/knowledge_graph_attention_network)
+
+- Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation  
+主题增强记忆网络个性化兴趣点推荐  
+[PDF](https://arxiv.org/pdf/1905.13127.pdf)
+[CODE](https://github.com/XiaoZHOUCAM/TEMN)
+
+- Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation  
+[PDF](https://arxiv.org/pdf/1905.13127.pdf)
+[CODE](https://github.com/XiaoZHOUCAM/TEMN)
+
+### ICDE
+- Context-aware Attention-based Data Augmentation for POI Recommendation  
+[PDF](https://ieeexplore.ieee.org/document/8750927)
+
+### SCC
+- A POI-Sensitive Knowledge Graph based Service Recommendation Method  
+基于POI感知知识图谱的服务推荐策略  
+
+## 其它
+- [AIRS] LGLMF: Local Geographical based Logistic Matrix Factorization Model for POI Recommendation  
+[PDF](https://arxiv.org/pdf/1909.06667.pdf)
+[CODE](https://arxiv.org/pdf/1909.06667.pdf)
+
+- Geography-Aware Inductive Matrix Completion for Personalized Point of Interest Recommendation in Smart Cities  
+[PDF](https://ieeexplore.ieee.org/abstract/document/8887261)
+[CODE](https://github.com/junyachen/GAIMC)
+
+- A Joint Deep Recommendation Framework for Location-Based Social Networks  
+[PDF](https://downloads.hindawi.com/journals/complexity/2019/2926749.pdf)
+[CODE](https://github.com/omer-tal/TCENR)
+
+- An Attention-Based Spatiotemporal LSTM Network for Next POI Recommendation  
+[PDF](https://ieeexplore.ieee.org/abstract/document/8723186)
+[CODE](https://github.com/drhuangliwei/An-Attention-based-Spatiotemporal-LSTM-Network-for-Next-POI-Recommendation)
+
+- [ECIR19] On Cross-Domain Transfer in Venue Recommendation  
+[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-15712-8_29.pdf)
+[CODE](https://bitbucket.org/feay1234/transferlearning-ecir-2019/src/master/)
+
+- Modeling User Contextual Behavior Semantics with Geographical Influence for Point-Of-Interest Recommendation  
+HeteGeoRankRec
+[PDF](https://ksiresearch.org/seke/seke19paper/seke19paper_178.pd)
+[CODE](https://github.com/Skyexu/HeteGeoRankRec)
+
+## 其它年份
+- [2018]GeoMF++: Scalable location recommendation via joint geographical modeling and matrix factorization  
+[PDF](https://dl.acm.org/doi/abs/10.1145/3182166)
+[CODE](https://github.com/DefuLian/recsys)
+
+- [ICDM 18] Next Point-of-Interest recommendation with Temporal and Multi-level Context Attention  
+[PDF](https://ieeexplore.ieee.org/document/8594953)
+[CODE](https://github.com/zhenql/TMCA)
+
+- [SIGIR 18] Contextual Attention Recurrent Architecture for Context-aware Venue Recommendation  
+[PDF](https://dl.acm.org/doi/10.1145/3209978.3210042)
+[CODE](https://colab.research.google.com/drive/1yrLp016VNWLyatt1LlLW00pZwYVPf-M3)
+[CODE](https://github.com/feay1234/CARA)
+
+- [CIKM 18] Point-of-Interest Recommendation: Exploiting Self-Attentive Autoencoders with Neighbor-Aware Influence    
+SAE-NAD
+[PDF](https://arxiv.org/pdf/1809.10770.pdf)
+[CODE](https://github.com/allenjack/SAE-NAD)
+
+- [RecSys 18] Translation-based Factorization Machines for Sequential Recommendation
+基于翻译的因子分解机序列推荐
+
+- [KDD 17] Bridging collaborative filtering and semi-supervised learning: a neural approach for poi recommendation  
+PACE
+[PDF](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Bridging%20Collaborative%20Filtering%20and%20Semi-Supervised%20Learning%20A%20Neural%20Approach%20for%20POI%20recommendation.pdf)
+[CODE](https://github.com/yangji9181/PACE2017)
+
 ## 综述论文
-- [2022]Point-of-Interest Recommender Systems based on Location-Based Social Networks: A Survey from an Experimental Perspective
+- [2022]Point-of-Interest Recommender Systems based on Location-Based Social Networks: A Survey from an Experimental Perspective  
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3510409)
-- [2022]A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations
+- [2022]A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations  
 [PDF](https://arxiv.org/pdf/2011.10187.pdf)
