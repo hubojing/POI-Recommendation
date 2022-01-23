@@ -21,7 +21,7 @@
 
 ## KDD 2021
 - Curriculum Meta-Learning for Next POI Recommendation  
-面向下一个兴趣点推荐的课程元学习
+基于课程元学习的下一个兴趣点推荐
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467132)
 [CODE](https://github.com/PaddlePaddle/Research/tree/master/ST_DM/KDD2021-CHAML)
 [CODE](https://github.com/victorsoda/chaml)
