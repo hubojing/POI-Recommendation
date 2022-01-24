@@ -34,7 +34,7 @@ POINTREC：用于叙事驱动兴趣点推荐的一种测试集
 
 ## WWW 2021
 - STAN: Spatio-Temporal Attention Network for Next Location Recommendation  
-STAN：面向下一个位置推荐的时空注意力网络
+STAN：基于时空注意力网络的下一个兴趣点推荐
 [PDF](https://arxiv.org/pdf/2102.04095.pdf)
 [CODE](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)
 
@@ -64,7 +64,7 @@ ST-PIL：用于POI推荐的时空周期兴趣学习
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3459637.3481962)
 [CODE](https://github.com/zyli93/GEAPR)
 
-- LightMove: A Lightweight Next-POI Recommendation for Taxicab Rooftop Advertising
+- LightMove: A Lightweight Next-POI Recommendation for Taxicab Rooftop Advertising  
 [PDF](https://arxiv.org/pdf/2108.04993.pdf)
 [CODE](https://github.com/Jinsung-Jeon/LightMove)
 
@@ -96,7 +96,7 @@ PREMERE：自集成进行元权重重调POI推荐
 [CODE](https://github.com/danaesavi/poi-type-prediction)
 
 ## ICDE 2021
-- EDGE: Entity-Diffusion Gaussian Ensemble for Interpretable Tweet Geolocation Prediction
+- EDGE: Entity-Diffusion Gaussian Ensemble for Interpretable Tweet Geolocation Prediction  
 [PDF](https://ieeexplore.ieee.org/abstract/document/9458709)
 
 ## DASFAA 2021
@@ -143,7 +143,7 @@ HME：一种双曲度量嵌入方法用于下一个兴趣点推荐
 - Spatial Object Recommendation with Hints: When Spatial Granularity Matters  
 带有提示的空间对象推荐：当空间粒度很重要时
 [PDF](https://arxiv.org/pdf/2101.02969.pdf)
-- Kernel Density Estimation based Factored Relevance Model for Multi-Contextual Point-of-Interest Recommendation
+- Kernel Density Estimation based Factored Relevance Model for Multi-Contextual Point-of-Interest Recommendation  
 [PDF](https://arxiv.org/pdf/2006.15679.pdf)
 [CODE](https://github.com/anitcd/FactoredRelevanceModel)
 
@@ -201,7 +201,7 @@ Magellan：使用交易数据的个性化旅行推荐系统
 下一步去哪：一种时空门控网络用于下一个兴趣点推荐
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9133505)
 
-- Point-of-Interest Recommendation with Global and Local Context
+- Point-of-Interest Recommendation with Global and Local Context  
 [PDF](https://ieeexplore.ieee.org/abstract/document/9355002)
 
 ## 其它
@@ -217,21 +217,21 @@ Magellan：使用交易数据的个性化旅行推荐系统
 [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3889)
 [CODE](https://github.com/socialsnail/VGMF)
 
-- Personalized location recommendation by fusing sentimental and spatial context
+- Personalized location recommendation by fusing sentimental and spatial context  
 [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302161)
 [CODE](https://github.com/rushing-snail/Sentimental-Spatial-POI-Recommendation)
 
-- Utilizing FastText for Venue Recommendation
+- Utilizing FastText for Venue Recommendation  
 [PDF](https://arxiv.org/pdf/2005.12982.pdf)
 [CODE](https://github.com/mgulcin/FastTextRec/)
 
-- [Engineering Applications of Artificial Intelligence] A point-of-interest suggestion algorithm in Multi-source geo-social networks
+- [Engineering Applications of Artificial Intelligence] A point-of-interest suggestion algorithm in Multi-source geo-social networks  
 中科院2区
 
-- GLR: A graph-based latent representation model for successive POI recommendation
+- GLR: A graph-based latent representation model for successive POI recommendation  
 中科院1区 top
 
-- [IEEE TRANSACTIONS ON CYBERNETICS] A Learning-Based POI Recommendation WithSpatiotemporal Context Awareness
+- [IEEE TRANSACTIONS ON CYBERNETICS] A Learning-Based POI Recommendation WithSpatiotemporal Context Awareness  
 一种基于学习的时空上下文感知兴趣点推荐方法
 
 ## 2019
@@ -303,7 +303,7 @@ SAE-NAD
 [PDF](https://arxiv.org/pdf/1809.10770.pdf)
 [CODE](https://github.com/allenjack/SAE-NAD)
 
-- [RecSys 18] Translation-based Factorization Machines for Sequential Recommendation
+- [RecSys 18] Translation-based Factorization Machines for Sequential Recommendation  
 基于翻译的因子分解机序列推荐
 
 - [KDD 17] Bridging collaborative filtering and semi-supervised learning: a neural approach for poi recommendation  
