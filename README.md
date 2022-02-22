@@ -1,23 +1,46 @@
 # POI-Recommendation
 关于兴趣点推荐的一切。
+论文大多来自顶刊顶会或其它主流期刊。
+
+欢迎提Issue完善本项目。
 
 # 论文
-## 2022
+## AAAI 2022
+- TADSAM:A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation  
+[PDF](https://practical-dl.github.io/long_paper/14.pdf)
 
-## 其它
-- [Information Processing & Management] Leveraging Social Influence based on Users Activity Centers for Point-of-Interest Recommendation  
+## 其它 2022
+- [TOIS] A Systematic Analysis on the Impact of Contextual Information on Point-of-Interest Recommendation  
+[PDF](https://arxiv.org/pdf/2201.08150.pdf)
+[CODE](https://github.com/rahmanidashti/ContextsPOI)
+- [IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS] Conversation-Based Adaptive Relational Translation Method for Next POI Recommendation With Uncertain Check-Ins    
+中科院1区 CART [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9712472)
+[CODE](https://github.com/CART2020/CART/tree/master/data)
+- [Information Processing & Management] Leveraging Social Influence based on Users Activity Centers for Point-of-Interest Recommendation    
 中科院1区 [PDF](https://arxiv.org/abs/2201.03450) 
 [CODE](https://github.com/Seyedhosseinzadeh/SUCP)
-- [Information Processing & Management]Combining Non-sampling and Self-attention for Sequential Recommendation
+- [Information Processing & Management]Combining Non-sampling and Self-attention for Sequential Recommendation  
 [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0306457321002892)
 [CODE](https://github.com/conquerSelf/NSSR)
 
 - Improving Location Recommendation with Urban Knowledge Graph  
 [PDF](https://arxiv.org/abs/2111.01013)
 
-- FedPOIRec: Privacy Preserving Federated POI Recommendation with Social Influence
+- FedPOIRec: Privacy Preserving Federated POI Recommendation with Social Influence  
 [PDF](https://arxiv.org/pdf/2112.11134.pdf)
 [CODE](https://github.com/vperifan/FedPOIRec)
+
+- Online POI Recommendation: Learning Dynamic Geo-Human Interactions in Streams  
+[PDF](https://arxiv.org/pdf/2201.10983.pdf)
+
+- [Communications of the ACM] Supporting People with Autism Spectrum Disorders in the Exploration of PoIs—An Inclusive Recommender System  
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3505267)
+
+- Context-aware POI Recommendation using Neutrosophic Set for Mobile Edge Computing  
+[PDF](https://assets.researchsquare.com/files/rs-1197954/v1_covered.pdf?c=1640819595)
+
+- Research on Personalized Minority Tourist Route Recommendation Algorithm Based on Deep Learning  
+[PDF](https://downloads.hindawi.com/journals/sp/2022/8063652.pdf)
 
 ## KDD 2021
 - Curriculum Meta-Learning for Next POI Recommendation  
@@ -99,11 +122,19 @@ PREMERE：自集成进行元权重重调POI推荐
 - EDGE: Entity-Diffusion Gaussian Ensemble for Interpretable Tweet Geolocation Prediction  
 [PDF](https://ieeexplore.ieee.org/abstract/document/9458709)
 
+## ICDM
+- DynaPosGNN: Dynamic-Positional GNN for Next POI Recommendation  
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9680032)
+
 ## DASFAA 2021
 - Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie  
 个性化兴趣点推荐:具有社会纽带的时空表征学习
 [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-73194-6_37.pdf)
 [CODE](https://github.com/dsj96/PPR-master)
+
+## IEEE Big Data 2021
+- Mobility-based Individual POI Recommendation to Control the COVID-19 Spread
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9671794)
 
 ## TKDE 2021
 - Point-of-Interest Recommendation for Users-Businesses with Uncertain Check-ins  
@@ -204,7 +235,7 @@ Magellan：使用交易数据的个性化旅行推荐系统
 - Point-of-Interest Recommendation with Global and Local Context  
 [PDF](https://ieeexplore.ieee.org/abstract/document/9355002)
 
-## 其它
+## 其它 2020
 - [ECIR 20]Joint Geographical and Temporal Modeling based on Matrix Factorization for Point-of-Interest Recommendation  
 [PDF](https://arxiv.org/pdf/2001.08961.pdf)
 [CODE](https://github.com/rahmanidashti/STACP)
