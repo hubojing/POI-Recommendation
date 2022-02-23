@@ -277,10 +277,6 @@ KGAT：知识图谱注意力网络推荐
 [PDF](https://arxiv.org/pdf/1905.13127.pdf)
 [CODE](https://github.com/XiaoZHOUCAM/TEMN)
 
-- Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation  
-[PDF](https://arxiv.org/pdf/1905.13127.pdf)
-[CODE](https://github.com/XiaoZHOUCAM/TEMN)
-
 ### ICDE
 - Context-aware Attention-based Data Augmentation for POI Recommendation  
 [PDF](https://ieeexplore.ieee.org/document/8750927)
@@ -320,27 +316,65 @@ HeteGeoRankRec
 [PDF](https://dl.acm.org/doi/abs/10.1145/3182166)
 [CODE](https://github.com/DefuLian/recsys)
 
-- [ICDM 18] Next Point-of-Interest recommendation with Temporal and Multi-level Context Attention  
+- [ICDM 2018] Next Point-of-Interest recommendation with Temporal and Multi-level Context Attention  
 [PDF](https://ieeexplore.ieee.org/document/8594953)
 [CODE](https://github.com/zhenql/TMCA)
 
-- [SIGIR 18] Contextual Attention Recurrent Architecture for Context-aware Venue Recommendation  
+- [SIGIR 2018] Contextual Attention Recurrent Architecture for Context-aware Venue Recommendation  
 [PDF](https://dl.acm.org/doi/10.1145/3209978.3210042)
 [CODE](https://colab.research.google.com/drive/1yrLp016VNWLyatt1LlLW00pZwYVPf-M3)
 [CODE](https://github.com/feay1234/CARA)
 
-- [CIKM 18] Point-of-Interest Recommendation: Exploiting Self-Attentive Autoencoders with Neighbor-Aware Influence    
+- [CIKM 2018] Point-of-Interest Recommendation: Exploiting Self-Attentive Autoencoders with Neighbor-Aware Influence    
 SAE-NAD
 [PDF](https://arxiv.org/pdf/1809.10770.pdf)
 [CODE](https://github.com/allenjack/SAE-NAD)
 
-- [RecSys 18] Translation-based Factorization Machines for Sequential Recommendation  
+- [RecSys 2018] Translation-based Factorization Machines for Sequential Recommendation  
 基于翻译的因子分解机序列推荐
 
-- [KDD 17] Bridging collaborative filtering and semi-supervised learning: a neural approach for poi recommendation  
+- [KDD 2017] Bridging collaborative filtering and semi-supervised learning: a neural approach for poi recommendation  
 PACE
 [PDF](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Bridging%20Collaborative%20Filtering%20and%20Semi-Supervised%20Learning%20A%20Neural%20Approach%20for%20POI%20recommendation.pdf)
 [CODE](https://github.com/yangji9181/PACE2017)
+
+- [Proceedings of the VLDB Endowment 2017] An Experimental Evaluation of Point-of-interest Recommendation in Location-based Social Networks
+[PDF](https://dr.ntu.edu.sg/bitstream/10220/49542/1/An%20Experimental%20Evaluation%20of%20Point-of-interest.pdf)
+
+- [SIGIR 2015] Exploiting geographical, social and categorical correlations for point-of-interest recommendations
+
+- Location recommendation in location-based social networks using user check-in data
+LFBCA
+
+- [SIGSPATIAL 2014] Lore: Exploiting sequential influence for location recommendations
+[PDF](https://users.wpi.edu/~yli15/Includes/SIGSPATIAL2014_lore.pdf)
+
+- Exploiting geographical neighborhood characteristics for location recommendation
+- [PDF](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?referer=http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4772&context=sis_research&httpsredir=1&article=4772&context=sis_research)
+
+- Geomf: Joint geographical modeling and matrix factorization for point-of-interest recommendation
+[PDF](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2014/Defu-Lian-KDD.pdf)
+
+- Rank-geofm: A ranking based geographical factorization method for point of interest recommendation
+
+- Geosoca: Exploiting geographical, social and categorical correlations for point-of-interest recommendations
+[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.703.9373&rep=rep1&type=pdf)
+
+- Point-of-interest recommendations: Learning potential check-ins from friends
+[PDF](https://www.kdd.org/kdd2016/papers/files/rfp0448-liA.pdf)
+
+- Fused Matrix Factorization with Geographical and Social Influence in Location-based Social Networks
+
+- Personalized geo-social location recommendation a kernel density estimation approach
+
+- [RecSys 2013] Exploring temporal effects for location recommendation on location-based social networks
+[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.416.4425&rep=rep1&type=pdf)
+
+- [SIGIR 2011] Exploiting Geographical Influence for Collaborative Point-of-Interest Recommendation
+USG [PDF](http://www.cse.cuhk.edu.hk/irwin.king.new/_media/presentations/p325.pdf)
+
+
+
 
 ## 综述论文
 - [2022]Point-of-Interest Recommender Systems based on Location-Based Social Networks: A Survey from an Experimental Perspective  
