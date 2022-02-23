@@ -6,7 +6,7 @@
 
 # 论文
 ## AAAI 2022
-- TADSAM:A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation  
+- [workshop] TADSAM:A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation  
 [PDF](https://practical-dl.github.io/long_paper/14.pdf)
 
 ## 其它 2022
@@ -91,7 +91,7 @@ ST-PIL：用于POI推荐的时空周期兴趣学习
 [PDF](https://arxiv.org/pdf/2108.04993.pdf)
 [CODE](https://github.com/Jinsung-Jeon/LightMove)
 
-- SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios
+- SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios  
 
 ## AAAI 2021
 - PREMERE: Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation  
@@ -133,7 +133,7 @@ PREMERE：自集成进行元权重重调POI推荐
 [CODE](https://github.com/dsj96/PPR-master)
 
 ## IEEE Big Data 2021
-- Mobility-based Individual POI Recommendation to Control the COVID-19 Spread
+- Mobility-based Individual POI Recommendation to Control the COVID-19 Spread  
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9671794)
 
 ## TKDE 2021
@@ -145,19 +145,19 @@ PREMERE：自集成进行元权重重调POI推荐
 [PDF](https://arxiv.org/pdf/2109.03535.pdf)
 [CODE](https://github.com/smrashid20/DeepAltTrip)
 
-## 其它
+## 其它 2021
 - Recommending POIs for Tourists by User Behavior Modeling and Pseudo-Rating  
 [PDF](https://arxiv.org/pdf/2110.06523.pdf)
 [CODE](https://github.com/Ma-Lab-Public/UX-SPR)
 - Self-supervised Representation Learning for Trip Recommendation  
-- [PDF](https://arxiv.org/pdf/2109.00968.pdf)
-- [CODE](https://github.com/gcooq/SelfTrip)
+[PDF](https://arxiv.org/pdf/2109.00968.pdf)
+[CODE](https://github.com/gcooq/SelfTrip)
 - Tag embedding based personalized point of interest recommendation system  
 TREC
 [PDF](https://doi.org/10.1016/j.ipm.2021.102690)
 [CODE](https://github.com/sagrawal1993/ContextualSuggestion)
 
-- Point of interest recommendations based on the anchoring effect in location-based social network services  
+- Point of interest recommendations based on the anchoring effect in location-based social network services   
 基于位置的社交网络服务中锚定效应的兴趣点推荐  
 [PDF](https://mysid88.github.io/homepage/publication/2021/Point%20of%20interest%20recommendations%20based%20on%20the%20anchoring%20effect%20inlocation-based%20social%20network%20services.pdf)
 
