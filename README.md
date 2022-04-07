@@ -5,6 +5,10 @@
 欢迎提Issue完善本项目。
 
 # 论文
+## WSDM 2022
+- Translating Human Mobility Forecasting through Natural Language Generation
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3488560.3498387)
+
 ## AAAI 2022
 - [workshop] TADSAM:A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation  
 [PDF](https://practical-dl.github.io/long_paper/14.pdf)
