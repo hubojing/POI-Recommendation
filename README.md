@@ -5,6 +5,13 @@
 欢迎提Issue完善本项目。
 
 # 论文
+## SIGIR 2022
+- Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation
+- Learning Graph-based Disentangled Representations for Next POI Recommendation
+- GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation
+- Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network
+- Empowering Next POI Recommendation with Multi-Relational Modeling
+
 ## WSDM 2022
 - Translating Human Mobility Forecasting through Natural Language Generation
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3488560.3498387)
