@@ -20,6 +20,10 @@
 - [workshop] TADSAM:A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation  
 [PDF](https://practical-dl.github.io/long_paper/14.pdf)
 
+## IJCAI 2022
+- Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation
+- Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences
+
 ## 其它 2022
 - [TOIS] A Systematic Analysis on the Impact of Contextual Information on Point-of-Interest Recommendation  
 [PDF](https://arxiv.org/pdf/2201.08150.pdf)
