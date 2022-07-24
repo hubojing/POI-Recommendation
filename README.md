@@ -5,6 +5,9 @@
 欢迎提Issue完善本项目。
 
 # 论文
+## KDD 2022
+- Graph-Flashback Network for Next Location Recommendation
+
 ## SIGIR 2022
 - Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation
 - Learning Graph-based Disentangled Representations for Next POI Recommendation
