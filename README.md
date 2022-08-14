@@ -10,10 +10,14 @@
 
 ## SIGIR 2022
 - Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation
+[PDF](https://bhooi.github.io/papers/hmt_sigir22.pdf)
+[CODE](https://github.com/poi-rec/HMT-GRN)
 - Learning Graph-based Disentangled Representations for Next POI Recommendation
+[PDF](https://scholar.archive.org/work/7vwci4mtazgzdnf7wvwcwbcbxa/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3477495.3532012)
 - GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation
 - Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network
 - Empowering Next POI Recommendation with Multi-Relational Modeling
+[PDF](https://arxiv.org/pdf/2204.12288)
 
 ## WSDM 2022
 - Translating Human Mobility Forecasting through Natural Language Generation
@@ -25,7 +29,9 @@
 
 ## IJCAI 2022
 - Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation
+[PDF](https://www.ijcai.org/proceedings/2022/0490.pdf)
 - Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences
+[PDF](https://www.ijcai.org/proceedings/2022/0521.pdf)
 
 ## 其它 2022
 - [TOIS] A Systematic Analysis on the Impact of Contextual Information on Point-of-Interest Recommendation  
