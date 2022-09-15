@@ -15,6 +15,8 @@
 - Learning Graph-based Disentangled Representations for Next POI Recommendation
 [PDF](https://scholar.archive.org/work/7vwci4mtazgzdnf7wvwcwbcbxa/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3477495.3532012)
 - GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation
+[PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
+[CODE](https://github.com/songyangme/GETNext)
 - Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network
 - Empowering Next POI Recommendation with Multi-Relational Modeling
 [PDF](https://arxiv.org/pdf/2204.12288)
