@@ -12,6 +12,9 @@
 - Model-Agnostic Decentralized Collaborative Learning for On-Device POI Recommendation
 - Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity
 
+## WWW 2023
+- LINet: A Location and Intention-Aware Neural Network for Hotel Group Recommendation
+
 ## KDD 2022
 - Graph-Flashback Network for Next Location Recommendation
 
