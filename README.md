@@ -5,6 +5,13 @@
 欢迎提Issue完善本项目。
 
 # 论文
+## SIGIR 2023
+- EEDN: Enhanced Encoder-Decoder Network with Local and Global Context Learning for POI Recommendation
+- Adaptive Graph Representation Learning for Next POI Recommendation
+- Spatio-Temporal Hypergraph Learning for Next POI Recommendation
+- Model-Agnostic Decentralized Collaborative Learning for On-Device POI Recommendation
+- Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity
+
 ## KDD 2022
 - Graph-Flashback Network for Next Location Recommendation
 
@@ -13,9 +20,9 @@
 [PDF](https://bhooi.github.io/papers/hmt_sigir22.pdf)
 [CODE](https://github.com/poi-rec/HMT-GRN)
 - Learning Graph-based Disentangled Representations for Next POI Recommendation
-[PDF](https://scholar.archive.org/work/7vwci4mtazgzdnf7wvwcwbcbxa/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3477495.3532012)
+[PDF](https://scholar.archive.org/work/7vwci4mtazgzdnf7wvwcwbcbxa/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3477495.3532012                                                                                                                )
 - GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation
-[PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
+[PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3531983                                                                                                                )
 [CODE](https://github.com/songyangme/GETNext)
 - Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network
 - Empowering Next POI Recommendation with Multi-Relational Modeling
@@ -23,7 +30,7 @@
 
 ## WSDM 2022
 - Translating Human Mobility Forecasting through Natural Language Generation
-[PDF](https://dl.acm.org/doi/pdf/10.1145/3488560.3498387)
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3488560.3498387                                                                                                        )
 
 ## AAAI 2022
 - [workshop] TADSAM:A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation  
@@ -60,7 +67,7 @@
 [PDF](https://arxiv.org/pdf/2201.10983.pdf)
 
 - [Communications of the ACM] Supporting People with Autism Spectrum Disorders in the Exploration of PoIs—An Inclusive Recommender System  
-[PDF](https://dl.acm.org/doi/pdf/10.1145/3505267)
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3505267  )
 
 - Context-aware POI Recommendation using Neutrosophic Set for Mobile Edge Computing  
 [PDF](https://assets.researchsquare.com/files/rs-1197954/v1_covered.pdf?c=1640819595)
@@ -404,6 +411,6 @@ USG [PDF](http://www.cse.cuhk.edu.hk/irwin.king.new/_media/presentations/p325.pd
 
 ## 综述论文
 - [2022]Point-of-Interest Recommender Systems based on Location-Based Social Networks: A Survey from an Experimental Perspective  
-[PDF](https://dl.acm.org/doi/pdf/10.1145/3510409)
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3510409                )
 - [2022]A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations  
 [PDF](https://arxiv.org/pdf/2011.10187.pdf)
