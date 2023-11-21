@@ -12,8 +12,31 @@
 - Model-Agnostic Decentralized Collaborative Learning for On-Device POI Recommendation
 - Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity
 
+## AAAI 2023
+- Next POI recommendation with dynamic graph and explicit dependency
+[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25608/25380)
+
 ## WWW 2023
 - LINet: A Location and Intention-Aware Neural Network for Hotel Group Recommendation
+
+## CIKM 2023
+- CLSPRec: Contrastive Learning of Long and Short-term Preferences for Next POI Recommendation
+- Personalized Interest Sustainability Modeling for Sequential POI Recommendation
+
+## WSDM 2023
+- DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation
+[PDF](https://arxiv.org/pdf/2210.16591.pdf)
+[CODE](https://github.com/Yifang-Qin/DisenPOI)
+
+## JCR Q1 2023
+- FedPOIRec: Privacy-preserving federated poi recommendation with social influence
+[PDF](https://arxiv.org/pdf/2112.11134)
+- Bayes-Enhanced Multi-View Attention Networks for Robust POI Recommendation
+[PDF](https://arxiv.org/pdf/2311.00491)
+- A Privacy-Preserving Time-Aware Method for Next POI Recommendation
+[PDF](https://www.mdpi.com/2079-9292/12/15/3208)
+- Intelligent Sensors for POI Recommendation Model Using Deep Learning in Location-Based Social Network Big Data
+[PDF](https://www.mdpi.com/1424-8220/23/2/850)
 
 ## KDD 2022
 - Graph-Flashback Network for Next Location Recommendation
@@ -23,9 +46,9 @@
 [PDF](https://bhooi.github.io/papers/hmt_sigir22.pdf)
 [CODE](https://github.com/poi-rec/HMT-GRN)
 - Learning Graph-based Disentangled Representations for Next POI Recommendation
-[PDF](https://scholar.archive.org/work/7vwci4mtazgzdnf7wvwcwbcbxa/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3477495.3532012                                                                                                                )
+[PDF](https://scholar.archive.org/work/7vwci4mtazgzdnf7wvwcwbcbxa/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3477495.3532012)
 - GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation
-[PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3531983                                                                                                                )
+[PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
 [CODE](https://github.com/songyangme/GETNext)
 - Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network
 - Empowering Next POI Recommendation with Multi-Relational Modeling
@@ -33,7 +56,7 @@
 
 ## WSDM 2022
 - Translating Human Mobility Forecasting through Natural Language Generation
-[PDF](https://dl.acm.org/doi/pdf/10.1145/3488560.3498387                                                                                                        )
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3488560.3498387)
 
 ## AAAI 2022
 - [workshop] TADSAM:A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation  
@@ -409,11 +432,8 @@ LFBCA
 - [SIGIR 2011] Exploiting Geographical Influence for Collaborative Point-of-Interest Recommendation
 USG [PDF](http://www.cse.cuhk.edu.hk/irwin.king.new/_media/presentations/p325.pdf)
 
-
-
-
 ## 综述论文
-- [2022]Point-of-Interest Recommender Systems based on Location-Based Social Networks: A Survey from an Experimental Perspective  
-[PDF](https://dl.acm.org/doi/pdf/10.1145/3510409                )
 - [2022]A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations  
 [PDF](https://arxiv.org/pdf/2011.10187.pdf)
+- [2022]Point-of-Interest Recommender Systems based on Location-Based Social Networks: A Survey from an Experimental Perspective  
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3510409)
