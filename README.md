@@ -5,6 +5,10 @@
 欢迎提Issue完善本项目。
 
 # 论文
+## 2024
+- A Diffusion model for POI recommendation
+[PDF](https://arxiv.org/pdf/2304.07041)
+
 ## SIGIR 2023
 - EEDN: Enhanced Encoder-Decoder Network with Local and Global Context Learning for POI Recommendation
 - Adaptive Graph Representation Learning for Next POI Recommendation
