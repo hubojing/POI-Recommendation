@@ -1,5 +1,5 @@
 # POI-Recommendation
-关于兴趣点推荐的一切。
+搜集兴趣点推荐的相关资料。
 论文大多来自顶刊顶会或其它主流期刊。
 
 欢迎提Issue完善本项目。
@@ -427,7 +427,6 @@ LFBCA
 [PDF](https://www.kdd.org/kdd2016/papers/files/rfp0448-liA.pdf)
 
 - Fused Matrix Factorization with Geographical and Social Influence in Location-based Social Networks
-
 - Personalized geo-social location recommendation a kernel density estimation approach
 
 - [RecSys 2013] Exploring temporal effects for location recommendation on location-based social networks
